@@ -63,6 +63,7 @@ Node* rev(Node* &head){
         return smallHead;
 }
 
+//Function for approach 2.
 void reverse1(Node* &head, Node* curr, Node* prev){
        
        //base case
